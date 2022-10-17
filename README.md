@@ -16,7 +16,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/yi%C4%9Fit-aslantekin-605600218/
-[gmail]: 92yigitaslantekin@gmail.com
+[gmail]: mailto:92yigitaslantekin@gmail.com
 <br />
 
 ### 🔧 Languages and Tools:
