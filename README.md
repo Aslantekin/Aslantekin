@@ -1,4 +1,4 @@
-<img align="on" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="825" height="325" />
+<img align="on" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="850" height="325" />
 
 ##  AWS & DevOps Engineer☁️
 
