@@ -1,4 +1,4 @@
-<img align="on" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="725" height="300" />
+<img align="on" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="750" height="325" />
 
 ##  AWS & DevOps Engineer☁️
 
@@ -30,6 +30,7 @@
 [docker]: https://www.docker.com/
 <br />
 <br />
+
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
