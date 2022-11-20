@@ -6,19 +6,6 @@
 
 - ⚡ Fun fact: bodybuilding🏋️ and trekking⛰️
 
-### 📩 Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-
-
-<br />
-
-
-[linkedin]: https://www.linkedin.com/in/yigitaslantekin/
-[gmail]: mailto:92yigitaslantekin@gmail.com
-<br />
-
 ### 🔧 Languages and Tools:
 
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/aws/aws.png" />][AWS]
@@ -42,4 +29,16 @@
 [terraform]: https://www.terraform.io
 [docker]: https://www.docker.com/
 <br />
+<br />
+### 📩 Connect with me:
+
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+
+
+<br />
+
+
+[linkedin]: https://www.linkedin.com/in/yigitaslantekin/
+[gmail]: mailto:92yigitaslantekin@gmail.com
 <br />
