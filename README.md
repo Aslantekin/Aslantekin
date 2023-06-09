@@ -1,11 +1,11 @@
 <img align="on" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="850" height="350" />
 
-##  AWS & DevOps Engineer☁️
+                                                                    ##  AWS & DevOps Engineer☁️
 
 
 
 
-                                                              ### 🔧 Languages and Tools:
+### 🔧 Languages and Tools:
 
 [<img align="left" alt="AWS" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/aws/aws.png" />][AWS]
 [<img align="left" alt="Kubernetes" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/kubernetes/kubernetes.png" />][kubernetes]
@@ -32,7 +32,7 @@
 <br />
 <br />
 
-                                                              ### 📩 Connect with me:
+### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="34px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="37" width="43" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
