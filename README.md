@@ -4,10 +4,6 @@
 
 - 🌱 Lifelong learning continues.
 
-- ⚡ Fun fact: bodybuilding🏋️ and trekking⛰️
-
-
-
 
 ### 🔧 Languages and Tools:
 
