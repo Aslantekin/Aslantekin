@@ -1,6 +1,7 @@
 <img align="on" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="850" height="350" />
 
-                                                                    ##  AWS & DevOps Engineer☁️
+
+##  AWS & DevOps Engineer☁️
 
 
 
@@ -31,7 +32,6 @@
 [ansible]: https://www.ansible.com/
 <br />
 <br />
-
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="34px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
