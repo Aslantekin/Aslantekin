@@ -2,8 +2,6 @@
 
 ##  AWS & DevOps Engineer☁️
 
-- 🌱 Lifelong learning continues.
-
 
 ### 🔧 Languages and Tools:
 
