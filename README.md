@@ -34,13 +34,11 @@
 <br />
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="34px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="37" width="43" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 
 <br />
 
 
-[linkedin]: https://www.linkedin.com/in/yigitaslantekin/
 [gmail]: mailto:92yigitaslantekin@gmail.com
 <br />
